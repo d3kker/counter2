@@ -1,0 +1,2 @@
+rootProject.name='MtgCounter versie 2'
+include ':app'
